@@ -1,4 +1,6 @@
 #!/bin"
+#This is a switchcase practice
+#We want to know what to do weekly
 echo "what are your activities this week
 case $1
      monday)
