@@ -1,10 +1,12 @@
 #!/bin/bash
 #a script to count the number of cars in my garage 
-echo "how many cars you have ?" 
+echo "what is your name?"
+read name
+echo "$name how many cars do you have?" 
 read anwser 
 if [ $answer -eq 10 ] 
 then 
-echo "you have too many cars"
+echo "$name you have too many cars"
 else
-echo "not too bad ,please keep the number low"
+echo "$name you have few cars"
 fi
