@@ -8,3 +8,6 @@ read fans
 amount=`expr $fans \* $fee`
 echo Your group will pay $amount USD
 code Author: Elvis B
+###Comments by ishglodevops#########
+#######################################
+###Updated by ishglodevops#############
